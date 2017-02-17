@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collabyrinth", "Assembly-CSharp.csproj", "{F54CBB12-08CA-8E97-69AA-970EFD8AD3BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collabyrinth", "Assembly-CSharp-Editor.csproj", "{D9AB4BE8-D00B-C9B6-5254-0E77BDA54F71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F54CBB12-08CA-8E97-69AA-970EFD8AD3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54CBB12-08CA-8E97-69AA-970EFD8AD3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54CBB12-08CA-8E97-69AA-970EFD8AD3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54CBB12-08CA-8E97-69AA-970EFD8AD3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9AB4BE8-D00B-C9B6-5254-0E77BDA54F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AB4BE8-D00B-C9B6-5254-0E77BDA54F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AB4BE8-D00B-C9B6-5254-0E77BDA54F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AB4BE8-D00B-C9B6-5254-0E77BDA54F71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
